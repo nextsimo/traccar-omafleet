@@ -22,5 +22,5 @@
     <entry key='database.driver'>org.postgresql.Driver</entry>
     <entry key='database.url'>jdbc:postgresql://127.0.0.1:54322/postgres</entry>
     <entry key='database.user'>postgres</entry>
-    <entry key='database.password'>postgres</entry>
+    <entry key='database.password'>XPH7zkzsG274J5PZ</entry>
 </properties>
