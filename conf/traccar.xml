@@ -23,4 +23,6 @@
     <entry key='database.url'>jdbc:postgresql://127.0.0.1:5432/postgres</entry>
     <entry key='database.user'>postgres</entry>
     <entry key='database.password'>XPH7zkzsG274J5PZ</entry>
+
+    <entry key='teltonika.port'>5055</entry>
 </properties>
